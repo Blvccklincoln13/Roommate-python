@@ -9,7 +9,7 @@ class Roommate:
 def main():
     roommate = Roommate(
         name="Eric Mbugua Jones",
-        age=25,   # change if you want
+        age=25,  
         hobbies="reading, football, gaming",
         personality="calm, friendly, and funny"
     )
